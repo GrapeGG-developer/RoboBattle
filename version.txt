@@ -1,0 +1,6 @@
+{
+  "version": "1.9.0",
+  "apkUrl": "https://твой-сайт.com/rogue_1.0.1.apk",
+  "description": "Release",
+  "forceUpdate": true
+}
