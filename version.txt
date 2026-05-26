@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.9.2/RoboBattle.apk",
+  "version": "1.9.3",
+  "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.9.3/RoboBattle.apk",
   "description": "Релиз",
   "forceUpdate": true
 }
