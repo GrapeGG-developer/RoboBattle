@@ -1,6 +1,6 @@
 {
-  "version": "pre1.10.0",
-  "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/pre1.10.0/RoboBattleBUG.apk",
+  "version": "1.9.5",
+  "apkUrl": "",
   "description": "Новое Обновление.",
-  "forceUpdate": true
+  "forceUpdate": false
 }
