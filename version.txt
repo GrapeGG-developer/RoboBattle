@@ -1,5 +1,5 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.9Patch2",
   "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.9.8-Patch1/RoboBattle.apk",
   "description": "Новое Обновлени!",
   "forceUpdate": true
