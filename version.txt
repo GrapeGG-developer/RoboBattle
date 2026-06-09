@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9Patch3",
-  "apkUrl":"https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.9.9Patch4/RoboBattle.apk",
+  "version": "1.9.9.5",
+  "apkUrl":"https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.9.9.5/RoboBattle.apk",
   "description": "Новое Обновление! - Патч UI и фиксы багов",
-  "forceUpdate": true
+  "forceUpdate": false
 }
