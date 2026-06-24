@@ -1,5 +1,5 @@
 {
-  "version": "pre2.0",
+  "version": "1.12",
   "apkUrl":"https://github.com/GrapeGG-developer/RoboBattle/releases/download/1.11/RoboBattle.apk",
   "description": "Новое Обновление! - БЕТА",
   "forceUpdate": false
