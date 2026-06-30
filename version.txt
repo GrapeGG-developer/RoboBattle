@@ -1,5 +1,5 @@
 {
-  "version": "1.14",
+  "version": "1.15",
   "apkUrl":"https://github.com/GrapeGG-developer/RoboBattle/releases/download/2.0-Beta2/Robo.Battle.apk",
   "description": "Новое Обновление!",
   "forceUpdate": true
