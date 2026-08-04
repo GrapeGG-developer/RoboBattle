@@ -4,6 +4,6 @@
   "oldApkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.0K1.16/Robo.Battle.apk",
   "description": "Новое Обновление!",
   "forceUpdate": true,
-  "allowRollback": false,
+  "allowRollback": true,
   "minSupportedVersion": "1.16"
 }
