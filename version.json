@@ -5,5 +5,5 @@
   "description": "Новое Обновление!",
   "forceUpdate": true,
   "allowRollback": true,
-  "minSupportedVersion": "1.16"
+  "minSupportedVersion": "1.17"
 }
