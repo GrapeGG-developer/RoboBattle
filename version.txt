@@ -1,1 +1,6 @@
-g
+{
+  "version": "1.10",
+  "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.17/Robo.Battle.apk",
+"description": "Новое Обновление!",
+"forceUpdate": true
+}
