@@ -4,5 +4,6 @@
   "description": "Новое Обновление!",
   "forceUpdate": false,
   "allowRollback": true,
-  "minSupportedVersion": "1.17"
+  "minSupportedVersion": "V2.1K1.17"
+  "revokedVersion": "V2.1K1.18"
 }
