@@ -6,7 +6,7 @@
   "forceUpdate": true,
   "allowRollback": true,
   "minSupportedVersion": "V2.1K1.17",
-  "revokedVersion": "",
+  "revokedVersion": "V2.1K1.18",
   "versions": [
     {
       "version": "V2.1K1.17",
