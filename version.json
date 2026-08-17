@@ -1,7 +1,7 @@
 {
   "version": "V2.1K1.18",
   "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.18/RoboBattle.apk",
-  "oldApkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.17/Robo.Battle.13.apk",
+  "oldApkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.17/Robo.Battle.apk",
   "description": "Новое Обновление!",
   "forceUpdate": true,
   "allowRollback": true,
