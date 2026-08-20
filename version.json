@@ -1,17 +1,17 @@
 {
-  "version": "V2.1K1.19",
+  "version": "V2.1.1.20",
   "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.19/RoboBattle.apk",
   "oldApkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.18/RoboBattle.apk",
   "description": "Новое Обновление!",
-  "forceUpdate": false,
-  "allowRollback": true,
-  "minSupportedVersion": "V2.1K1.17",
-  "revokedVersion": "V2.1K1.18",
+  "forceUpdate": true,
+  "allowRollback": false,
+  "minSupportedVersion": "V2.1.1.20",
+  "revokedVersion": "V2.1K1.18", "V2.1K1.17",
   "versions": [
     {
       "version": "V2.1K1.17",
       "apkUrl": "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1K1.18/RoboBattle.apk",
-      "description": "Предыдущая версия"
+      "description": "- Исправление багов в версий 2.1.18 и 2.1.19. -"
     }
   ]
 }
