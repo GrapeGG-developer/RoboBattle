@@ -5,7 +5,7 @@
   "description": "Новое Обновление!",
   "forceUpdate": true,
   "allowRollback": false,
-  "minSupportedVersion": "V2.1K1.200",",
+  "minSupportedVersion": "V2.1K1.200",
   "revokedVersion": "V2.1K1.18, V2.1K1.19",
   "versions": [
     {
