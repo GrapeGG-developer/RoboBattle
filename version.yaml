@@ -1,16 +1,16 @@
-version: "V2.1.1.20"
+version: "V2.1.1.100"
 title: "Новое Обновление!"
-description: "- Исправление багов версий 2.1.18 и 2.1.19. -"
+description: "- 1 YEAR EDITION -"
 updateUrl: "https://grapegg-developer.github.io/RoboBattle-Web/"
-apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.20/RoboBattle.apk"
-oldApkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.19/RoboBattle.apk"
-forceUpdate: false
+apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
+oldApkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
+forceUpdate: true
 allowRollback: false
-minSupportedVersion: "V2.1.1.20"
+minSupportedVersion: "V2.1.1.100"
 revokedVersion: ""
-critical: false            
+critical: true         
 showInGameDescription: true 
 versions:
-  - version: "V2.1.1.19"
-    apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.19/RoboBattle.apk"
+  - version: "V2.1.1.20"
+    apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.20/RoboBattle.apk"
     description: "- Исправление багов"
