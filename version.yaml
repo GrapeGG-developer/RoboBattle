@@ -1,7 +1,7 @@
 version: "V2.1.1.1.1"
 title: "Новое Обновление!"
 description: "- 1 YEAR EDITION -"
-updateUrl: "https://grapegg-developer.github.io/RoboBattle-Web/"
+updateUrl: ""
 apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
 oldApkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
 forceUpdate: true
