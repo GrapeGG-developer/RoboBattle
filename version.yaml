@@ -2,10 +2,10 @@ version: "V2.2.0.0"
 title: "Новое Обновление!"
 description: "- 1 YEAR EDITION -"
 updateUrl: ""
-apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
-oldApkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.1.1.1.1/RoboBattle.apk"
+apkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.2.0.0/RoboBattle.apk"
+oldApkUrl: "https://github.com/GrapeGG-developer/RoboBattle/releases/download/V2.2.0.0/RoboBattle.apk"
 forceUpdate: true
-allowRollback: false
+allowRollback: true
 minSupportedVersion: "V2.2.0.0"
 revokedVersion: ""
 critical: true         
